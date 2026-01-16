@@ -1,6 +1,7 @@
 # paper-cusum-detection
 
-This repository contains Julia code for the paper on **CUSUM-based outage detection in power systems**. The code allows replicating the results, including critical region extraction, CuSum statistic construction, and detection performance metrics.
+This repository contains Julia code for the paper on **Outage Identification from Electricity Market Data:
+Quickest Change Detection Approach**. The code allows replicating the results, including critical region extraction, CuSum statistic construction, and detection performance metrics.
 
 ## Requirements
 
